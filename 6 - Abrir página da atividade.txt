@@ -1,0 +1,7 @@
+1 - Abrir página do evento
+
+2 - Selecionar o dia da palestra
+
+3 - Selecionar a palestra pelo botão cuja imagem foi dada no cadastro
+
+Caso o botão não apareça na data correta ou não apareça em geral algo foi feito errado durante o cadastro

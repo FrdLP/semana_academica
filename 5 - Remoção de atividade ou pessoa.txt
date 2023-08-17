@@ -1,0 +1,5 @@
+1 - Na página do evento acessar configurações na parte superior esquerda da tela e clicar em Remoção de palestras para remover palestras (2.1) ou Remoção de pessoas para remover pessoas (2.2)
+
+2.1 - Para remover palestas utilize o nome do cadastro da palestra (Letras maiúsculas importam, escreva o nome identico ao cadastrado) e clique em remover
+
+2.2 - Para remover pessoas utilize o nome do cadastro da pessoa (Letras maiúsculas importam, escreva o nome identico ao cadastrado) ou o RA cadastrado e clique em remover

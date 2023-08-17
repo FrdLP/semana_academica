@@ -1,0 +1,9 @@
+Ao cadastrar um novo evento será criada uma pasta com o nome do evento conforme cadastrado, lá serão salvos todos os dados do evento
+
+
+Ao cadastrar uma pessoa será criada uma pasta dentro da pasta do evento com o nome da pessoa conforme cadastrado e um arquivo de texto, nesse arquivo de texto terão os dados de cadastro da pessoa e posteriormente as palestras que ela esteve presente.
+
+Será encontrado na pasta de cada pessoa:
+Arquivo de texto com os dados dos participantes e as atividades que o participante participou e os certificados das atividades que ele participou, dessa forma poderá ser feita uma checagem se falta algum certificado ou não.
+
+!!!! CUIDADO AO APAGAR COISAS NAS PASTAS, você poderá apagar dados importantes que não poderão ser recuperados posteriormente. !!!!

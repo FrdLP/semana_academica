@@ -1,0 +1,13 @@
+1 - Na página do evento acessar configurações na parte superior esquerda da tela e clicar em cadastro de pessoas
+
+2 - Escrever o nome que aparecerá no certificado
+
+3 - Escrever o RA que será utilizado para dar a presença para o participante
+
+4 - Escrever o Email de contato do participante
+
+Exemplo
+
+João da Silva
+123456
+joaodasilva@gmail.com

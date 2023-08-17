@@ -1,0 +1,19 @@
+1 - Na página do evento acessar configurações na parte superior esquerda da tela e clicar em cadastro de palestras (qualquer tipo de atividade pode ser inscrita)
+
+2 - Nome da atividade da maneira que deverá aparecer no certificado (detalhe, o tipo de atividade caso queira deverá ser cadastrado no nome, exemplo "Palestra de inteligência artificial" ou "Workshop sobre ....." dessa forma diferentes tipos de atividade poderão ser cadastrados
+
+3 - Texto de descrição da atividade que aparecerá na página da palestra
+
+4 - Imagem de fundo da página da atividade com dimensões 1920x1080 (1920 horizontal 1080 vertical)
+
+5 - Imagem do botão para acesso à página da atividade com dimensões 400x100 (400 horizontal 100 vertical)
+
+6 - Dia que ocorrerá a atividade no formato dd/mm/aaaa
+
+7 - Horário de inicio da atividade no formato HH:MM
+
+8 - Horário de término da atividade no formato HH:MM
+
+NOTA: Esse horário será utilizado para calcular a carga horária, logo horários "Quebrados" serão arredondados para baixo, aparecerá somente 1, 2, 3..... horas de carga horária
+
+Não há página de edição de atividade, portanto se algo for feito errado, é recomendado que apague a atividade e crie novamente.

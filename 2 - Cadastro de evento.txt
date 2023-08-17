@@ -1,0 +1,38 @@
+1 - Clicar no botão criar evento
+
+2 - Colocar o nome do evento (da maneira que você quer que apareça no certificado)
+
+3 - Enviar as imagens de botão, de fundo do evento e template de certificado (Clicar no botão "Selecionar imagem de cada e buscar no sistema onde está salvo as imagens, as imagens DEVEM estar em png, o botão tem dimensões 200x200 e a imagem de fundo do evento 1920x1080, certificado será discutido no final desse documento)
+
+4 - Texto para certificado será um texto template que será preenchido com os dados conforme as presenças, é importante seguir os passos para gerar o certificado de maneira correta, segue um exemplo de texto:
+
+"Declaramos que o discente
+NOME
+Participou da ATIVIDADE, no evento EVENTO, realizada na data de DATA com carga horária total de CARGA horas.
+Londrina, DIA de setembro de 2023"
+
+A primeira linha é uma introdução curta do certificado, como: Declaramos que.. certificamos que...
+A segunda linha é específica para o nome do participante, sendo necessário ser escrito dessa maneira: NOME (Dessa maneira o nome do participante é introduzido no texto
+A terceira linha é o corpo do certificado, podendo ser escrito da maneira que preferir
+A quarta linha é local e data do evento
+Segue os comandos que devem ser colocados no texto para gerar o certificado personalizado para cada participante:
+
+ATIVIDADE - Nome da atividade salvo no cadastro, exemplo "Palestra sobre inteligência artificial......"
+EVENTO - Nome do evento salvo no cadastro, exemplo "VI Semana Acadêmica de ......."
+DATA - Data completa no formato dd/mm/aaaa salvo no cadastro da atividade
+CARGA - Carga horária salva calculada conforme horário de inicio e término da atividade dada no cadastro da atividade (carga horária em horas, minutos são arredondados para baixo)
+DIA - Dia da palestra salvo no cadastro da atividade
+NOME - Nome do participante caso queira inserir novamente
+
+Detalhe é que o texto à ser substituído DEVE ser esse em caixa alta e o mesmo texto escrito, qualquer forma diferente e acontecerá um erro ao gerar o certificado caso não queira utilizar algum desses comandos não tem problema, mas ao utilizar tenha certeza que ele está escrito de maneira correta
+
+5 - O posicionamento do texto de certificado:
+Para fazer o template do certificado o local onde o texto será localizado será uma caixa de texto com o canto superior esquerdo localizado em x = 200 e y = 600 e a caixa tem 1015 de largura e 650 de altura (IMAGEM 1), as dimensões do certificado podem variar, mas o texto deverá respeitar essa localização/dimensão
+
+6 - Os dias do evento são feitos no modelo dd/mm/aaaa e não precisão ser todos preenchidos, os preenchidos serão salvos na pasta criada pelo programa
+
+7 - Clicar em salvar 
+
+8 - Tentar abrir a página do evento e verificar na pasta do arquivo do programa se o evento foi criado de maneira correta, caso não, tente apagar o que foi criado e criar novamente o evento
+
+

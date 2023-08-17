@@ -1,0 +1,5 @@
+1 - Abrir página da atividade
+
+2 - Na caixa de texto na frente de RA: escreva o RA do participante de maneira identica ao RA dado no cadastro da pessoa, caso contrário a pessoa não será localizada no banco de dados, no CAMEC usaremos leitor de codigo de barras e leremos o codigo de barras da carteirinha
+
+3 - Clicar em Marcar presença
